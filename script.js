@@ -1,4 +1,4 @@
-let slideIndex = 11;
+let slideIndex = 121;
 showSlides(slideIndex);
 
 function plusSlides(n) {
